@@ -1,0 +1,1 @@
+docker run -it   --mount type=bind,source= C:\vex-vscode-projects\OkapiLib , target=/usr/local/okapilib   d35f04d5c8b5 bash  
